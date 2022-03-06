@@ -104,5 +104,5 @@ nutri = NutriPy()
 
 #print(nutri.getFoodById(23))
 #print(len(nutri.getFoods('polysaturated_fat', '>= 1')))
-print(nutri.getFoodsByName('Alcoholic beverage'))
+#print(nutri.getFoodsByName('Alcoholic beverage'))
 #print(nutri.getFoodsByCategory('breakfast', True))
